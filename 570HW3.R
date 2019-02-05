@@ -1,4 +1,4 @@
-#FE570 HW3
+#Implementation
 #Question 1
 data = read.csv("~/Downloads/sp500hst.txt", header = TRUE)
 BAC_DATA <-subset(data, Ticker=="BAC")
