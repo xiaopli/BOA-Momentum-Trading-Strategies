@@ -1,5 +1,5 @@
 #Implementation
-#Question 1
+#EMA Method
 data = read.csv("~/Downloads/sp500hst.txt", header = TRUE)
 BAC_DATA <-subset(data, Ticker=="BAC")
 n1=11
