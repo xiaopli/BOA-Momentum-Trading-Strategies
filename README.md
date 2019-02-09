@@ -2,7 +2,7 @@
 
 Part 1
 
-Consider the daily stock close price for Back of America (BAC)from August 21, 2009 to August 20, 2010 
+Consider the daily stock close price for Bank of America (BAC)from August 21, 2009 to August 20, 2010 
 
 1.Build a momentum trading strategy based on the Moving Average Con-vergence/Divergence (MACD) method.
 
@@ -17,7 +17,7 @@ Consider the daily stock close price for Back of America (BAC)from August 21, 20
 <img width="654" alt="screen shot 2019-02-04 at 21 41 37" src="https://user-images.githubusercontent.com/22850807/52250536-52d77b80-28c6-11e9-89d2-391bdbf750c8.png">
 Part 2
 
-Consider the daily stock close price for Alcoa (AA) from Au-gust 21, 2009 to August 20, 2010 in the file sp500hst.txt.
+Consider the daily stock close price for Alcoa (AA) from Au-gust 21, 2009 to August 20, 2010
 
 1.Identify this pattern based on the five consecutive ex-treme values:E1, E2, E3, E4, and E5.
 
