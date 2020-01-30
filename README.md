@@ -1,4 +1,4 @@
-# Market-Microstructure-and-Trading-Strategies
+# BOA momentum trading strategy Trading-Strategies
 
 Part 1
 
