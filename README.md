@@ -1,4 +1,4 @@
-# BOA momentum trading strategy Trading-Strategies
+# BOA Momentum-Trading-Strategies
 
 Part 1
 
